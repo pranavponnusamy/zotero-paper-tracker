@@ -1,5 +1,7 @@
 # Zotero Paper Tracker
 
+Vibe coded for fun :)
+
 A simple web application to track the reading status of your Zotero papers.
 
 ## Features
